@@ -13,7 +13,7 @@ A professional tool to generate hacker-style banner.
 برای استفاده از این ابزار، کافی است دستورات زیر را در ترمینال کالی لینوکس خود وارد کنید:
 
 ```bash
-git clone https://github.com/mansoor511/.git
-cd [REPO_NAME_شما]
+git clone https://github.com/mansoor511/BannerForge.git
+cd BannerForge
 pip3 install -r requirements.txt
 python3 bannerforge.py
